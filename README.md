@@ -1,2 +1,2 @@
 # WCR_Data
-WInnipeg Compensation Report data
+Winnipeg Compensation Report data for 2021-2022 in csv format
